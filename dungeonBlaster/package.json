@@ -1,0 +1,23 @@
+{
+  "name": "dungeon_blaster",
+  "version": "1.0.0",
+  "description": "CodeFights daily challenge from 2017-08-03",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/moredatarequired/codefights.git"
+  },
+  "author": "Hugh Wimberly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moredatarequired/codefights/issues"
+  },
+  "homepage": "https://github.com/moredatarequired/codefights#readme",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.5.0"
+  }
+}
